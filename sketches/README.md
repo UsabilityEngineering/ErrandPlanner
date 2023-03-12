@@ -1,5 +1,4 @@
 # Sketches
 
-
-!!! DELETE THESE !!!
-!!! need to draw up some new sketches !!!
+## Scenerio 1
+![ian_sketch](Sketches_ian.jpg)
