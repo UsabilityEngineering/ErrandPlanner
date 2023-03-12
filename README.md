@@ -26,11 +26,11 @@ This project attempts to create a calander website that keeps track of all of yo
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+We have 
+* looked at similar looking products to get a feeling of what our own should look like and how we can improve as well
+* created some sketches of scenerios that might happen with our website
+* created personas and scenerios with those personas 
+* created wireframes
 
 [Full phase I report](phaseI/)
 
