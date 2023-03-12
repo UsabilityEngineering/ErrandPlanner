@@ -19,7 +19,7 @@ This project attempts to create a calander website that keeps track of all of yo
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
-* [Sketches and Diagrams](sketches/Errand Planner wire frames.pdf)
+* [Sketches and Diagrams](sketches/README.md)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 
