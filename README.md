@@ -26,6 +26,7 @@ This project attempts to create a calander website that keeps track of all of yo
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
+
 We have 
 * looked at similar looking products to get a feeling of what our own should look like and how we can improve as well
 * created some sketches of scenerios that might happen with our website
