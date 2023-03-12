@@ -1,20 +1,25 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Errand Planner
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+This project attempts to create a calander website that keeps track of all of your already existing errands and try to suggest a place you can go as a solution to an errand you need to do in between your bussy schedule. 
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Ian](https://usabilityengineering.github.io/ux-portfolio-IanSanchezBaca/)**  
+    + Created the person Brendon and his scenerios
+    + Created the [calandar](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Calender.png) wireframe
+    
+* **[Shree](!!!URL to Person B's published portfolio!!!)**
+    + Created the persona Sophie and her scenerios
+    + created the [login page](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Login.png) and the [errand creation page](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Add%20an%20Errand.png) wireframes
+
 
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
-* [Sketches and Diagrams](sketches/)
+* [Sketches and Diagrams](sketches/Errand Planner wire frames.pdf)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 
