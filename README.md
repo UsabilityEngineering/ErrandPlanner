@@ -2,7 +2,7 @@
 
 # Errand Planner
 
-This project attempts to create a calander website that keeps track of all of your already existing errands and try to suggest a place you can go as a solution to an errand you need to do in between your bussy schedule. 
+The goal of Errand Planner is to use the locations of what you have planned in a day to actively suggest time slots for you to run errands. For example, if your daily calendar has all of your classes and their locations scheduled in. Using a list of errands you have entered, the program would suggest you an ideal time  to complete the errand. Errands would have preferred locations, deadlines, durations, and priorities. Other features could include having a destination that needs to be reached immediately after an errand, such as home after getting groceries or buying something expensive or bulky.
 
 ## UX Team Members
 
