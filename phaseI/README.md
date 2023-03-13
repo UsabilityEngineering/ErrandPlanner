@@ -20,7 +20,8 @@ While conducting our market research through competitive analysis we concluded t
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From these findings, we have concluded that the UX design of this product needs to be very intuitive and easy to use. The mental model of a calendar should be easily translated into the conceptual model. Our initial design included a single-page website which only displayed a calendar and had a map integrated in the task list. After all the research we quickly came to the conclusion the errands also need to be displayed on a separate page for quick reference so that the user can access them as needed. Another major change in design was to be able to accept or reject suggested errands. This would give the user flexibility and make the product more efficient.From heuristic evaluationof other similar websites,  we also deduced that the layout of calender and the design of the website should be kept fairly minimal and all the errands need to be color co-ordinated with categories as well as the errands should be able to have a priority and need to be scheduled accordingly.  
+
 
 ## Caveats
 
