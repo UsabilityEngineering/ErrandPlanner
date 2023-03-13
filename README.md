@@ -8,11 +8,11 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 
 * **[Ian](https://usabilityengineering.github.io/ux-portfolio-IanSanchezBaca/)**  
     + Created the person Brendon and his scenerios
-    + Created the [calandar](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Calender.png) wireframe
+    + Created the [calandar](phaseII/Calender.png) wireframe
     
 * **[Shree](https://usabilityengineering.github.io/ux-portfolio-Tanushree1100/ )**
     + Created the persona Sophie and her scenerios
-    + created the [login page](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Login.png) and the [errand creation page](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Login.png) wireframes
+    + created the [login page](phaseII/Login.png) and the [errand creation page](phaseII/Add_an_Errand.png) wireframes
 
 
 # User-Centered Design Artifacts
