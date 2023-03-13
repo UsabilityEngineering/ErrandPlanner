@@ -7,10 +7,10 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 ## Methods
 
 During the first phase of the project, we did intensive research on our market competitors as well as the demographic of the targeted users to gauge the product’s market presence as well as its face value and usefulness. We implemented UX research strategies such as
-1) Competitive Analysis provides the entrepreneur with information about how competitors market their business and ways to penetrate the market by entry through product or service gaps in areas that your competitors do not serve or do not serve well.
-2) Heuristic Evaluation is a usability inspection method that asks usability practitioners and other stakeholders to evaluate a user interface based on a set of principles or commonsense rules.
-3) Identifying targeted demographics, Some of these are gender, age, income level, race, education level, religion, marital status, and geographic location.
-4) Creating personas and scenarios of possible users.  -  Personas are often based on the area of focus or domain you are working within as a lens to highlight the relevant attitudes and the specific context associated with the area of work. Scenarios describe the stories and context behind why a specific user or user group comes to your site.  They note the goals and questions to be achieved and sometimes define the possibilities of how the user(s) can achieve them on the site.
+1) **Competitive Analysis** provides the entrepreneur with information about how competitors market their business and ways to penetrate the market by entry through product or service gaps in areas that your competitors do not serve or do not serve well.
+2) **Heuristic Evaluation** is a usability inspection method that asks usability practitioners and other stakeholders to evaluate a user interface based on a set of principles or commonsense rules.
+3) **Identifying targeted demographics**, Some of these are gender, age, income level, race, education level, religion, marital status, and geographic location.
+4) **Creating personas and scenarios of possible users**. Personas are often based on the area of focus or domain you are working within as a lens to highlight the relevant attitudes and the specific context associated with the area of work. Scenarios describe the stories and context behind why a specific user or user group comes to your site.  They note the goals and questions to be achieved and sometimes define the possibilities of how the user(s) can achieve them on the site.
 
 
 ## Findings
