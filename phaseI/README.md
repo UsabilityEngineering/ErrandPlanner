@@ -15,7 +15,7 @@ During the first phase of the project, we did intensive research on our market c
 
 ## Findings
 
-While conducting our market research through competitive analysis we concluded that our product is one of its kind since our immediate completion is with google calender and google maps combined but this also requires switching applications to achieve what we are trying to via Errand Planner. We established that our targeted audience ranges from students to adults working in cooperating settings. But it also stretches out from stay-at-home parents to entrepreneurs. This meant that we had to cater to a vast variety of users and need to consider every possible use of the product. To better understand how the product will be useful to the consumers we created scenarios and personas and concluded that our product needed four basic functionality; being able to import google and outlook calendars, add and remove errands, automate errand suggestions, map the locations of the errand to figure out the optimized route and add a notes section for each errand for more details.  
+While conducting our market research through competitive analysis we concluded that our product is one of its kind since our immediate completion is with google calender and google maps combined but this also requires switching applications to achieve what we are trying to via Errand Planner. We established that our targeted audience ranges from students to adults working in cooperating settings. But it also stretches out from stay-at-home parents to entrepreneurs. This meant that we had to cater to a vast variety of users and need to consider every possible use of the product. To better understand how the product will be useful to the consumers we created scenarios and personas and concluded that our product needed four basic functionality; being able to import google and outlook calendars, add and remove errands, automate errand suggestions, map the locations of the errand to figure out the optimized route and add a notes section for each errand for more details. During heuristic evalution of Google suite we concluded that the design layout of the website needs to be failrly simple. 
 
 
 ## Conclusions
@@ -25,4 +25,4 @@ From these findings, we have concluded that the UX design of this product needs 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+In our research so far, we have not encountered any caveats but our main concern so far is being able to implement travelling salesman problem and make sure that the processing time is fast enough that it doesn’t slow down the website.
