@@ -10,7 +10,7 @@ This project attempts to create a calander website that keeps track of all of yo
     + Created the person Brendon and his scenerios
     + Created the [calandar](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Calender.png) wireframe
     
-* **[Shree](!!!URL to Person B's published portfolio!!!)**
+* **[Shree](https://usabilityengineering.github.io/ux-portfolio-Tanushree1100/ )**
     + Created the persona Sophie and her scenerios
     + created the [login page](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Login.png) and the [errand creation page](https://raw.githubusercontent.com/UsabilityEngineering/ErrandPlanner/main/sketches/images/Add%20an%20Errand.png) wireframes
 
