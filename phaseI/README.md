@@ -15,7 +15,8 @@ During the first phase of the project, we did intensive research on our market c
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+While conducting our market research through competitive analysis we concluded that our product is one of its kind since our immediate completion is with google calender and google maps combined but this also requires switching applications to achieve what we are trying to via Errand Planner. We established that our targeted audience ranges from students to adults working in cooperating settings. But it also stretches out from stay-at-home parents to entrepreneurs. This meant that we had to cater to a vast variety of users and need to consider every possible use of the product. To better understand how the product will be useful to the consumers we created scenarios and personas and concluded that our product needed four basic functionality; being able to import google and outlook calendars, add and remove errands, automate errand suggestions, map the locations of the errand to figure out the optimized route and add a notes section for each errand for more details.  
+
 
 ## Conclusions
 
