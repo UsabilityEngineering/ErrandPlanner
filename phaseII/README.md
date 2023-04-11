@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Users would be able to add their errands and the application would automatically sort them out by priority and put the most important errands on top or earlier, and the ones that don't have as much priority later. 
 
 ## Methods
 
