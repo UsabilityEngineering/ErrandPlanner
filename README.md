@@ -39,10 +39,13 @@ We have
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Wireframe design for the product concentrates on a landing page, the home page, errands view, calendar view, and today's errands to establish a potential user interface.
+* Cognitive Walkthrough of the design to establish interaction  and the most efficient use of  the product
+* Major takeaways from the cognitive walkthrough determined a few inconsistencies with the data entry format that can be quickly corrected through minor changes in design.
+    * Simplified data entry process for increased efficiency of adding tasks
+    * Autofill Address to rule out any inaccuracies 
+    * Simplifying the user interface and adapting a more interactive calendar layout. 
+
 
 [Full phase II report](phaseII/)
 
