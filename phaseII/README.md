@@ -5,7 +5,10 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+In the course of this sprint, our team had compiled wireframes, which represent a fundamental visual prototype of a digital product, such as a web page, application or other. These wireframes essentially map out the layout, structure and functionality of the product, in a simplistic manner that does not focus much on design aesthetics. Their purpose is to conceptualize and plan the user interface and user experience (UI/UX) of the product, as a preliminary step before moving into the more intricate design phase.
+
+Followed by a cognitive walkthrough, which is a usability evaluation method that aims to assess the ease of use and effectiveness of a product or system, through the perspective of its intended users. This process typically involves a team of evaluators (our peers) who simulate the actions and thought processes of the product's target users while performing typical tasks or scenarios. Through this evaluation, our peers identified potential areas where the product may cause confusion or require additional support or information to better support the user's decision-making process.
+
 
 ## Findings
 
