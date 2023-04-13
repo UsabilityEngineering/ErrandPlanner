@@ -20,4 +20,4 @@ The insights from the cognitive walkthrough have revealed several areas of oppor
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+It is important to note that the cognitive walkthrough was performed by a single user, which may limit the generalizability of the results. However, despite this caveat, the insights gathered from the cognitive walkthrough can still provide valuable guidance for improving the product's usability and enhancing the user experience. Overall, while the results of a single-user cognitive walkthrough should be interpreted with caution, they can still provide valuable insights that can be used to guide product development and refinement efforts.
