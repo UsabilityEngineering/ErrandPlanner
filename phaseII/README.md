@@ -1,8 +1,7 @@
 # Phase II: Refining interaction and designing wireframes
 
 ## Introduction
-
-Users would be able to add their errands and the application would automatically sort them out by priority and put the most important errands on top or earlier, and the ones that don't have as much priority later. 
+The goal of Errand Planner is to use the locations of what you have planned in a day to actively suggest time slots for you to run errands. For example, if your daily calendar has all of your classes and their locations scheduled in. Using a list of errands you have entered, the program would suggest you an ideal time  to complete the errand. Errands would have preferred locations, deadlines, durations, and priorities. Other features could include having a destination that needs to be reached immediately after an errand, such as home after getting groceries or buying something expensive or bulky.
 
 ## Methods
 
