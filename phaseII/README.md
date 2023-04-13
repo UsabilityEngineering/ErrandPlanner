@@ -16,9 +16,7 @@ From the insights gathered during the cognitive walkthrough, we have identified 
 
 
 ## Conclusions
-
-By implementing the cognitive walkthrough method, our classmates conducted a comprehensive evaluation of the product's usability, with a particular focus on identifying potential areas where the product may impede or frustrate the user's decision-making process. This process allowed us to gain a valuable understanding of the product's effectiveness from the user's perspective, and provided us with actionable insights that can be used to refine and optimize the product design. Overall, our team's wireframe compilation, combined with our classmates' cognitive walkthrough, have greatly contributed to the advancement of our product development efforts.
-
+The insights gleaned from the cognitive walkthrough have revealed several areas of opportunity to enhance the product's usability and increase efficiency. Firstly, we have recognized the potential for simplifying the data entry process, thereby reducing the time and effort required to add tasks. Secondly, the integration of an address autofill feature has been identified as a solution to rule out any potential inaccuracies that could arise from manual address entry. Lastly, simplifying the user interface and adopting a more interactive calendar layout has been identified as another opportunity for improvement. Overall, these recommendations offer valuable guidance for enhancing the product's usability and streamlining the user experience. By implementing these insights, we believe the product will become more effective and efficient, while also improving user satisfaction.
 
 ## Caveats
 
