@@ -12,7 +12,8 @@ Followed by a cognitive walkthrough, which is a usability evaluation method that
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+From the insights gathered during the cognitive walkthrough, we have identified several opportunities to optimize the user experience of the product. Specifically, we recognize the potential benefit of implementing interactive calendar fields on the front-end, which would allow users to seamlessly navigate and create events without having to manually initiate the create function.Furthermore, we have identified the potential for user confusion with regards to the date and time input format in the calendar fields. As a solution, we recommend integrating placeholder text within these fields to provide users with clearer guidance and support.Another opportunity for improvement we have identified is the integration of a Google Maps API to enable autofill functionality for address fields. This feature would greatly enhance the user experience by streamlining the process of entering location information and reducing the likelihood of errors or user frustration.Overall, these insights offer valuable guidance for enhancing the usability and functionality of the product, and we look forward to implementing these recommendations in future iterations.
+
 
 ## Conclusions
 
