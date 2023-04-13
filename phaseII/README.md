@@ -17,7 +17,8 @@ From the insights gathered during the cognitive walkthrough, we have identified 
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+By implementing the cognitive walkthrough method, our classmates conducted a comprehensive evaluation of the product's usability, with a particular focus on identifying potential areas where the product may impede or frustrate the user's decision-making process. This process allowed us to gain a valuable understanding of the product's effectiveness from the user's perspective, and provided us with actionable insights that can be used to refine and optimize the product design. Overall, our team's wireframe compilation, combined with our classmates' cognitive walkthrough, have greatly contributed to the advancement of our product development efforts.
+
 
 ## Caveats
 
