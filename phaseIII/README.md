@@ -1,8 +1,7 @@
 # Phase III: Prototypes and User Testing
 
 ## Introduction
-
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The goal of Errand Planner is to use the locations of what you have planned in a day to actively suggest time slots for you to run errands. For example, if your daily calendar has all of your classes and their locations scheduled in. Using a list of errands you have entered, the program would suggest you an ideal time  to complete the errand. Errands would have preferred locations, deadlines, durations, and priorities. Other features could include having a destination that needs to be reached immediately after an errand, such as home after getting groceries or buying something expensive or bulky.
 
 ## Methods
 
