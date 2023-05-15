@@ -53,13 +53,9 @@ We have
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
 We have 
 * Finished the final prototype
+    * added more color to the prototype instead of being grayscale
 * did some "User Test Procedures" and collected data
 
 [Full phase III report](phaseIII/)
