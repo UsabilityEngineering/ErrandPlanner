@@ -58,4 +58,8 @@ We have
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
+We have 
+* Finished the final prototype
+* did some "User Test Procedures" and collected data
+
 [Full phase III report](phaseIII/)
