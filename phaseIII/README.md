@@ -18,9 +18,11 @@ During the user tests, participants were encouraged to provide feedback, think a
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+In task 1, a substantial majority of the users demonstrated proficient navigation skills, effortlessly locating and accessing the "Create" button. However, they encountered confusion regarding input text fields and the display of the "errands" list as "errand." This highlights the need for clearer instructions, improved labeling consistency, and enhanced clarity in the system's interface to provide a more seamless user experience.
 
-!!! summarize the findings point-by-point to clarify new discoveries of users' needs. This should describe the aggregate data and perhaps include representative [anonymized] quotes (e.g. "P1 said, 'this is much easier than what I've used before!") !!! 
+In Task 2, Users found it easy to navigate through different pages in the calendar by scrolling. No specific comments were made about this task. However, they encountered some difficulties with inputs, indicating a need for clearer instructions or more intuitive input mechanisms to enhance the user experience.
+
+In Task 3, Users encountered confusion while attempting to navigate to today's errands and edit the priority. They suggested the implementation of a pop-up or an edit button on the page to simplify the process. The data indicates a need for improved navigation and editing functionalities to enhance the user experience and alleviate confusion.
 
 ## Conclusions
 
