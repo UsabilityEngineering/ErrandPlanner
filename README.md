@@ -55,8 +55,7 @@ We have
 **Executive Summary**
 
 We have 
-* Finished the final prototype
-    * added more color to the prototype instead of being grayscale
-* did some "User Test Procedures" and collected data
-
+* Completed the final prototype
+    * Incorporated an expanded color palette into the design, replacing the previous grayscale scheme
+* Conducted User Test Procedures and Gathered Data
 [Full phase III report](phaseIII/)
