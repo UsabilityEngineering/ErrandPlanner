@@ -9,8 +9,9 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
-There were 5 sessions run, with each session taking a maximum of 30 minutes. 
-Prior to the tests, 1 protocol and 1 informed consent form were printed so that the users know that these tests will only be used for research purposes.
+User Test Procedures were systematically executed to assess the usability and effectiveness of the final prototype. A diverse range of participants, representing the target user demographic, were carefully selected to ensure a comprehensive evaluation. Real-life scenarios were created to simulate typical usage situations, enabling participants to interact with the prototype while performing relevant tasks and goals.
+
+
 
 ## Findings
 
