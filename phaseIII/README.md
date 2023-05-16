@@ -18,7 +18,7 @@ During the user tests, participants were encouraged to provide feedback, think a
 
 ## Findings
 
-In task 1, a substantial majority of the users demonstrated proficient navigation skills, effortlessly locating and accessing the "Create" button. However, they encountered confusion regarding input text fields and the display of the "errands" list as "errand." This highlights the need for clearer instructions, improved labeling consistency, and enhanced clarity in the system's interface to provide a more seamless user experience.
+In Task 1, a substantial majority of the users demonstrated proficient navigation skills, effortlessly locating and accessing the "Create" button. However, they encountered confusion regarding input text fields and the display of the "errands" list as "errand." This highlights the need for clearer instructions, improved labeling consistency, and enhanced clarity in the system's interface to provide a more seamless user experience.
 
 In Task 2, users found it easy to navigate through different pages in the calendar by scrolling. No specific comments were made about this task. However, they encountered some difficulties with inputs, indicating a need for clearer instructions or more intuitive input mechanisms to enhance the user experience.
 
