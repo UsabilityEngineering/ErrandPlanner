@@ -54,7 +54,6 @@ We have
 
 **Executive Summary**
 
-We have 
 * Completed the final prototype
     * Incorporated an expanded color palette into the design, replacing the previous grayscale scheme
 * By employing these User Test Procedures and meticulously collecting and analyzing data, valuable insights were gained regarding the usability and effectiveness of the final prototype. 
