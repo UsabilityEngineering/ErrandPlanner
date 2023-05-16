@@ -5,10 +5,6 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 
 ## Methods
 
-!!! Describe your approach to your user test, including the number of participants (n=5), study design, a list of the tasks they performed, and other data collected !!!
-
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
-
 User Test Procedures were systematically executed to assess the usability and effectiveness of the final prototype. A diverse range of participants, representing the target user demographic, were carefully selected to ensure a comprehensive evaluation. Real-life scenarios were created to simulate typical usage situations, enabling participants to interact with the prototype while performing relevant tasks and goals.
 
 The users were provided with the following tasks to accomplish : 
