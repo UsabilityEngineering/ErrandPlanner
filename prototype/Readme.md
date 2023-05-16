@@ -1,1 +1,7 @@
-test
+![login](/prototype/Login.jpg)
+![sign up](/prototype/Sign_up.jpg)
+![add errand](/prototype/Add_an_Errand.jpg)
+![delete an errand](/prototype/Delete_an_Errand.jpg)
+![calander](/prototype/Calander.jpg)
+![Today errands](/prototype/Today's_Errands.jpg)
+![view errand](/prototype/view_errand.jpg)
