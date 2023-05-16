@@ -11,6 +11,8 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 
 User Test Procedures were systematically executed to assess the usability and effectiveness of the final prototype. A diverse range of participants, representing the target user demographic, were carefully selected to ensure a comprehensive evaluation. Real-life scenarios were created to simulate typical usage situations, enabling participants to interact with the prototype while performing relevant tasks and goals.
 
+During the user tests, participants were encouraged to provide feedback, think aloud, and share their observations and impressions. Various data collection methods, including direct observation, video recording, questionnaires, and interviews, were employed to gather both quantitative and qualitative insights.
+
 
 
 ## Findings
