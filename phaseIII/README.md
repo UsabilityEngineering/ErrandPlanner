@@ -29,9 +29,7 @@ In Task 4, Users clicked on the calendar to perform edit and delete actions. No 
 In Task 5, Users encountered a standard layout throughout their interactions, including a standard sign-up form. No specific comments were made regarding the layout or form, indicating that they found it familiar and expected. The conclusions drawn from this data are that a standard and familiar layout, along with a typical sign-up form, can contribute to a comfortable and intuitive user experience without eliciting notable feedback or concerns.
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-!!! Describe and/or demonstrate those recommendations and how they should shape summative conclusions, formative revisions, and recommended future work. !!!
+In conclusion, the user feedback from the tasks reveals valuable insights for improving the user experience. The users demonstrated proficiency in navigation but encountered confusion in various aspects. Clearer instructions, improved labeling consistency, and enhanced clarity in the system's interface are necessary to address the confusion surrounding input text fields and the display of lists. Additionally, the inclusion of intuitive input mechanisms, such as pop-ups or edit buttons, can simplify navigation and editing tasks. Implementing an edit button for calendar actions emerged as a common suggestion to enhance usability. On the other hand, users found comfort in the standard layout and familiar sign-up form, suggesting that adhering to established design conventions can contribute to a seamless and intuitive user experience. By considering and implementing these insights, the system can be enhanced to provide a more user-friendly and efficient environment for its users.
 
 ## Caveats
 
