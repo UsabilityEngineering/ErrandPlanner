@@ -57,5 +57,7 @@ We have
 We have 
 * Completed the final prototype
     * Incorporated an expanded color palette into the design, replacing the previous grayscale scheme
-* Conducted User Test Procedures and Gathered Data
+* By employing these User Test Procedures and meticulously collecting and analyzing data, valuable insights were gained regarding the usability and effectiveness of the final prototype. 
+*Participants commended the well-designed and functional website layout, praising its logical organization, clear navigation, and consistent visual hierarchy.
+
 [Full phase III report](phaseIII/)
