@@ -22,7 +22,7 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 * [Wireframe Flow](https://xd.adobe.com/view/ce7829e8-bddb-4864-9a26-4660d2b32b49-9b2b/screen/61fa66cc-e325-4b79-80a8-f4f72884aae7/)
 * [Wireframe](phaseII)
 * [Prototype Images](/prototype)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/d0f87614-7162-4b0e-bb65-47fd36bdda6f-85ab/?fullscreen&hints=off)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
