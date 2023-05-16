@@ -20,10 +20,13 @@ During the user tests, participants were encouraged to provide feedback, think a
 
 In task 1, a substantial majority of the users demonstrated proficient navigation skills, effortlessly locating and accessing the "Create" button. However, they encountered confusion regarding input text fields and the display of the "errands" list as "errand." This highlights the need for clearer instructions, improved labeling consistency, and enhanced clarity in the system's interface to provide a more seamless user experience.
 
-In Task 2, Users found it easy to navigate through different pages in the calendar by scrolling. No specific comments were made about this task. However, they encountered some difficulties with inputs, indicating a need for clearer instructions or more intuitive input mechanisms to enhance the user experience.
+In Task 2, users found it easy to navigate through different pages in the calendar by scrolling. No specific comments were made about this task. However, they encountered some difficulties with inputs, indicating a need for clearer instructions or more intuitive input mechanisms to enhance the user experience.
 
-In Task 3, Users encountered confusion while attempting to navigate to today's errands and edit the priority. They suggested the implementation of a pop-up or an edit button on the page to simplify the process. The data indicates a need for improved navigation and editing functionalities to enhance the user experience and alleviate confusion.
+In Task 3, users encountered confusion while attempting to navigate to today's errands and edit the priority. They suggested the implementation of a pop-up or an edit button on the page to simplify the process. The data indicates a need for improved navigation and editing functionalities to enhance the user experience and alleviate confusion.
 
+In Task 4, Users clicked on the calendar to perform edit and delete actions. No specific comments were made regarding this task. However, users pointed out the need for an edit button on the page based on their previous experiences. This suggests that the absence of an edit button negatively affected the user experience. Implementing an edit button would address this issue and improve user satisfaction and convenience within the system.
+
+In Task 5, Users encountered a standard layout throughout their interactions, including a standard sign-up form. No specific comments were made regarding the layout or form, indicating that they found it familiar and expected. The conclusions drawn from this data are that a standard and familiar layout, along with a typical sign-up form, can contribute to a comfortable and intuitive user experience without eliciting notable feedback or concerns.
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
