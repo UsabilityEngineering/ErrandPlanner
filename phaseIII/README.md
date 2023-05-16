@@ -11,14 +11,14 @@ The goal of Errand Planner is to use the locations of what you have planned in a
 
 User Test Procedures were systematically executed to assess the usability and effectiveness of the final prototype. A diverse range of participants, representing the target user demographic, were carefully selected to ensure a comprehensive evaluation. Real-life scenarios were created to simulate typical usage situations, enabling participants to interact with the prototype while performing relevant tasks and goals.
 
-During the user tests, participants were encouraged to provide feedback, think aloud, and share their observations and impressions. Various data collection methods, including direct observation, video recording, questionnaires, and interviews, were employed to gather both quantitative and qualitative insights.
-
 The users were provided with the following tasks to accomplish : 
 * Imagine that you need to schedule a pick-up of your medications from the pharmacy while you have a busy day at work. Can you guide me through the process you would follow to schedule this errand? Please inform me when you have determined a suitable time that not only works best for you but is also added to your calendar. 
 * Suppose your best friend David is hosting a party, and you can't recall your plans for that day. If you can't remember your plans for the day, would you be able to navigate to the today's errands" page to check your schedule?
 * Imagine you had a previously scheduled errand but due to a more urgent matter, you need to reschedule it. In this case, you would prioritize this task as 1 (High) inimportance. After rescheduling, please evaluate how effective the website was in rearranging your other tasks.
 * Suppose you had a task assigned to you by a friend, but your friend canceled the task as they are a bit lazy, and now the task is no longer required. Could you explain the steps you would take to delete that task? 
 * Suppose that you are signing up for an account with a new device. Please walk me through that process and evaluate it. 
+
+During the user tests, participants were encouraged to provide feedback, think aloud, and share their observations and impressions. Various data collection methods, including direct observation, video recording, questionnaires, and interviews, were employed to gather both quantitative and qualitative insights.
 
 ## Findings
 
