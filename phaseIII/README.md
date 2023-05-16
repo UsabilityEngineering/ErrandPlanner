@@ -13,7 +13,9 @@ User Test Procedures were systematically executed to assess the usability and ef
 
 During the user tests, participants were encouraged to provide feedback, think aloud, and share their observations and impressions. Various data collection methods, including direct observation, video recording, questionnaires, and interviews, were employed to gather both quantitative and qualitative insights.
 
-
+The users were provided with the following tasks to accomplish : 
+* Imagine that you need to schedule a pick-up of your medications from the pharmacy while you have a busy day at work. Can you guide me through the process you would follow to schedule this errand? Please inform me when you have determined a suitable time that not only works best for you but is also added to your calendar. 
+* Suppose your best friend David is hosting a party, and you can't recall your plans for that day. If you can't remember your plans for the day, would you be able to navigate to the today's errands" page to check your schedule?
 
 ## Findings
 
